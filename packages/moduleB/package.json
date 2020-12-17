@@ -1,5 +1,5 @@
 {
-  "name": "module_b",
+  "name": "module_b_wj",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,6 @@
   "dependencies": {
     "lodash": "^4.17.20",
     "zepto": "^1.2.0"
-  }
+  },
+  "gitHead": "dd022efe9e11b52a153593b3b6825f45555691bb"
 }

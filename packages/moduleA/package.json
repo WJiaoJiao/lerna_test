@@ -1,5 +1,5 @@
 {
-  "name": "module_a",
+  "name": "module_a_wj",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,6 @@
   "dependencies": {
     "jquery": "^3.5.1",
     "lodash": "^4.17.20"
-  }
+  },
+  "gitHead": "dd022efe9e11b52a153593b3b6825f45555691bb"
 }
